@@ -1,0 +1,6 @@
+MODEL:
+  TRAINER: "RandomTrainer"
+  ENCODER: "RGBCNN"
+
+ENV:
+  ENV_NAME: "ThorInteractionCount-v0"

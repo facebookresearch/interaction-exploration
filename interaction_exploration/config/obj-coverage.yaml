@@ -1,0 +1,6 @@
+MODEL:
+  TRAINER: "RGBTrainer"
+  ENCODER: "RGBCNN"
+
+ENV:
+  ENV_NAME: "ThorObjectCoverage-v0"

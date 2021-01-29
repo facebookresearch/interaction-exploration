@@ -1,0 +1,10 @@
+MODEL:
+  TRAINER: "BeaconTrainer"
+  ENCODER: "RGBAffordanceTwoStream"
+
+DATA:
+  AUX_MEAN: 0.04
+  AUX_STD: 0.06
+
+ENV:
+  ENV_NAME: "ThorInteractionCount-v0"

@@ -1,0 +1,10 @@
+MODEL:
+  TRAINER: "SaliencyTrainer"
+  ENCODER: "RGBSaliencyTwoStream"
+
+DATA:
+  AUX_MEAN: 0.5
+  AUX_STD: 0.5
+
+ENV:
+  ENV_NAME: "ThorInteractionCount-v0"
