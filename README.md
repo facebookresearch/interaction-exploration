@@ -7,7 +7,7 @@ This repo contains code to train and evaluate *interaction exploration* agents t
 This is the code accompanying our NeurIPS20 (spotlight) work:  
 **Learning Affordance Landscapes for Interaction Exploration in 3D Environments**  
 *Tushar Nagarajan and Kristen Grauman.*  
-[[arxiv]](https://arxiv.org/pdf/2008.09241.pdf) [[project page]](http://vision.cs.utexas.edu/projects/ego-topo/)
+[[arxiv]](https://arxiv.org/pdf/2008.09241.pdf) [[project page]](http://vision.cs.utexas.edu/projects/interaction-exploration/)
 
 ## Requirements
 Install required packages:
